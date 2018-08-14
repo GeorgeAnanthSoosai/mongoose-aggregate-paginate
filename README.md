@@ -19,7 +19,7 @@
 ## Install
 
 ```bash
-npm install mongoose-aggregate-paginate --save
+npm install mongoose-aggregate-paginate-sorting --save
 ```
 ## Usage
 
